@@ -1,6 +1,8 @@
 //Imports
 const inquirer = require("inquirer");
 const fs = require('fs');
+const shapes = require("./shapes");
+console.log(shapes);
 
 
 //prompt questions
@@ -34,3 +36,15 @@ const questions = [
     },
 
 ]
+
+function run() {
+    inquirer
+    .prompt(questions)
+    // .then(answers) => {
+    //     const logoContent = Shapes(answers);
+    //     writeToFile("logo.svg", logoContent);
+    // }
+
+}
+
+run()

@@ -1,0 +1,31 @@
+{
+  "name": "taylor-s_svg_generator",
+  "version": "1.0.0",
+  "description": "SVG Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorgehrts/Taylor-s_SVG_Generator.git"
+  },
+  "keywords": [
+    "node",
+    "svg",
+    "jest",
+    "inquirer"
+  ],
+  "author": "taylorgehrts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorgehrts/Taylor-s_SVG_Generator/issues"
+  },
+  "homepage": "https://github.com/taylorgehrts/Taylor-s_SVG_Generator#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

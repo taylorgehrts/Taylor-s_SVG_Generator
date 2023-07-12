@@ -23,7 +23,7 @@ Right now you would need to clone the repository and then navigate to the direct
 ## Usage
 - Simply run the program with the command node index.js in the terminal and then answer the questions, when you are through it will generate the SVG file.
 - To view the logo open the file in the browser
-- [Walkthrough Video](https://drive.google.com/file/d/12BleJ_CEeDh6C69ZzQhjTM6krKM3oK9L/view)
+- [Walkthrough Video](https://drive.google.com/file/d/1_xwLV9LcT2BL_4rze5vt269i5h4dL8Nj/view)
 
 ## License
 This project is licensed under the MIT license. Click [License](https://opensource.org/licenses/MIT) for more information.
@@ -32,7 +32,7 @@ This project is licensed under the MIT license. Click [License](https://opensour
 Taylor Gehrts
 
 ## Tests
-The test here are pretty simple and just test whether the shape will be drawn correctly.  To run the test (after you have installed all dependencies) simply run npm test from the command line while in the appropriate directory.
+The test here are pretty simple and just test whether the shape will be drawn correctly.  To run the test (after you have installed all dependencies) simply run npm test from the command line while in the appropriate directory. The Jest library was used to run the tests.
 
 ## Questions
 If you have any questions, you can reach out to me via GitHub or E-mail:
